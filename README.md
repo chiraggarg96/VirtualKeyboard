@@ -2,13 +2,13 @@
 Virtual keyboard command prompt implementation using c++
 
 Development environment 
--> windows 10
--> dev c++ 5.11
--> c++ 11
+1. windows 10
+2. dev c++ 5.11
+3. c++ 11
 
 How to Run
--> open cmd at project root directory
--> type "virtualkeyboard.exe"
+1. open cmd at project root directory
+2. type "virtualkeyboard.exe"
 
 
 Functionalities
